@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Bryce Anderson</h1>
 <h3 align="center">A Fullstack developer with a background in Design.</h3>
 
+
+
 - 🔭 I’m currently working on **LKCreative's new website** 
 
 - 🌱 I’m currently learning **React Native, Angular, AngularJS** 
@@ -13,7 +15,7 @@
 
 - ⚡ Fun fact **I love photography and the outdoors.**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanderson3" alt="abanderson3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanderson3" alt="abanderson3" /></a> </p>
 
 
 
