@@ -1,19 +1,20 @@
 <h1 align="center">Hey 👋, I'm Bryce Anderson</h1>
 <h3 align="center">A Fullstack developer with a background in Design.</h3>
 
+- 🔭 I’m currently working on **LKCreative's new website** 
+
+- 🌱 I’m currently learning **React Native, Angular, AngularJS** 
+
+- 👯 I’m looking to collaborate on **anything, just ask!** 
+
+- 💬 Ask me about **React, Vite, TypeScript** </p>
+
+- 📫 How to reach me **abryce.anderson@gmail.com** 
+
+- ⚡ Fun fact **I love photography and the outdoors.**
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanderson3" alt="abanderson3" /></a> </p>
 
-<p align="center"> - 🔭 I’m currently working on **LKCreative's new website** </p>
-
-<p align="center"> - 🌱 I’m currently learning **React Native, Angular, AngularJS** </p>
-
-<p align="center"> - 👯 I’m looking to collaborate on **anything, just ask!** </p>
-
-<p align="center"> - 💬 Ask me about **React, Vite, TypeScript** </p>
-
-<p align="center"> - 📫 How to reach me **abryce.anderson@gmail.com** </p>
-
-<p align="center"> - ⚡ Fun fact **I love photography and the outdoors.** </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
