@@ -3,17 +3,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanderson3" alt="abanderson3" /></a> </p>
 
-- 🔭 I’m currently working on **LKCreative's new website**
+<p alighn="center> - 🔭 I’m currently working on **LKCreative's new website** </p>
 
-- 🌱 I’m currently learning **React Native, Angular, AngularJS**
+<p alighn="center> - 🌱 I’m currently learning **React Native, Angular, AngularJS** </p>
 
-- 👯 I’m looking to collaborate on **anything, just ask!**
+<p alighn="center> - 👯 I’m looking to collaborate on **anything, just ask!** </p>
 
-- 💬 Ask me about **React, Vite, TypeScript**
+<p alighn="center> - 💬 Ask me about **React, Vite, TypeScript** </p>
 
-- 📫 How to reach me **abryce.anderson@gmail.com**
+<p alighn="center> - 📫 How to reach me **abryce.anderson@gmail.com** </p>
 
-- ⚡ Fun fact **I love photography and the outdoors.**
+<p alighn="center> - ⚡ Fun fact **I love photography and the outdoors.** </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
