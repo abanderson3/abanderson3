@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything, just ask!** 
 
-- 💬 Ask me about **React, Vite, TypeScript** </p>
+- 💬 Ask me about **React, TypeScript, PostgreSQL** </p>
 
 - 📫 How to reach me **abryce.anderson@gmail.com** 
 
