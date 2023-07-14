@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abryce.anderson@gmail.com** 
 
-- ⚡ Fun fact **I love photography and the outdoors.**
+- ⚡ Fun fact **I love photography and the outdoors!**
 
 
 
