@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LKCreative's new website** 
 
-- 🌱 I’m currently learning **React Native, Angular, AngularJS** 
+- 🌱 I’m currently learning **Next.js, Angular, Framer Motion** 
 
 - 👯 I’m looking to collaborate on **anything, just ask!** 
 
