@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **LKCreative's new website** 
+- 🔭 I’m currently working on **LKCreative's new website.**
 
-- 🌱 I’m currently learning **Next.js, Angular, Framer Motion** 
+- 🌱 I’m currently learning **Next.js, Angular, and Framer Motion.** 
 
 - 👯 I’m looking to collaborate on **anything, just ask!** 
 
-- 💬 Ask me about **React, TypeScript, PostgreSQL** </p>
+- 💬 Ask me about **React, TypeScript, PostgreSQL.** </p>
 
-- 📫 How to reach me **abryce.anderson@gmail.com** 
+- 📫 How to reach me **abryce.anderson@gmail.com.** 
 
 - ⚡ Fun fact **I love photography and the outdoors!**
 
